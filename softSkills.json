@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Kommunikation",
+    "icon": "fas fa-bullhorn"
+  },
+  {
+    "title": "Teamwork",
+    "icon": "fas fa-users"
+  },
+  {
+    "title": "Anpassungsfähigkeit",
+    "icon": "fas fa-chess-knight"
+  },
+  {
+    "title": "Probleme lösen",
+    "icon": "fas fa-puzzle-piece"
+  },
+  {
+    "title": "Kreativität",
+    "icon": "fab fa-angrycreative"
+  },
+  {
+    "title": "Arbeitsmoral",
+    "icon": "fas fa-briefcase"
+  },
+  {
+    "title": "Zwischenmenschliche Fähigkeiten",
+    "icon": "fas fa-people-carry"
+  },
+  {
+    "title": "Zeiteinteilung",
+    "icon": "fas fa-calendar-alt"
+  },
+  {
+    "title": "Kritisches Denken",
+    "icon": "fas fa-theater-masks"
+  },
+  {
+    "title": "Selbstmotivation",
+    "icon": "fab fa-android"
+  },
+  {
+    "title": "Flexibilität",
+    "icon": "fab fa-buromobelexperte"
+  }
+]

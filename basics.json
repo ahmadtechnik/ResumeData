@@ -1,0 +1,39 @@
+[
+  {
+    "type": "name",
+    "value": "Ahmad Kouider"
+  },
+  {
+    "type": "email",
+    "value": "ahmad@kouider.de",
+    "icon": "envelope-open-text"
+  },
+  {
+    "type": "phone",
+    "value": "+49 (176) 24 888 649",
+    "icon": "mobile"
+  },
+  {
+    "type": "location",
+    "value": "Dortmund",
+    "icon": "globe-americas"
+  },
+  {
+    "type": "website",
+    "value": "https://resume.kouider.de",
+    "link": true,
+    "icon": "internet-explorer"
+  },
+  {
+    "type": "linkedin",
+    "value": "https://www.linkedin.com/in/ahmad-koudier-52192b147/",
+    "link": true,
+    "icon": "linkedin-in"
+  },
+  {
+    "type": "github",
+    "value": "https://github.com/ahmadtechnik",
+    "link": true,
+    "icon": "github-square"
+  }
+]

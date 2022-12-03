@@ -1,0 +1,151 @@
+[
+  {
+    "project_name": "Signature System",
+    "start_in": "25.05.2019",
+    "ends_in": "25.06.2019",
+    "project_describe": "Project to get Customers Digital Signature by connecting 2 different devices in same network, on of those devices have a Pen will be given to the customer, and the other device will controll the home page and put the signature on PDF file",
+    "git_links": [
+      "https://github.com/ahmadtechnik/signatureSystem.git",
+      "https://github.com/ahmadtechnik/signatureSystemClientSideAndroidApp.git"
+    ],
+    "presentation_link": "https://youtu.be/aPnduAXpA6o",
+    "tags": ["JAVA", "NodeJS", "CSS", "HTML", ""],
+    "platform": "Desktop",
+    "photos_links": [],
+    "presentation_path": ""
+  },
+  {
+    "project_name": "Customer Reminder",
+    "start_in": "12.07.2019",
+    "ends_in": "-",
+    "project_describe": "The user upload CVS files with Customers Data, the app will filter the data by sorting them by seniority then check if any Contract has been finished to send SMS message to the Customer to inform him that his Contract is finished",
+    "git_links": ["https://github.com/ahmadtechnik/CustomerReminder.git"],
+    "presentation_link": "",
+    "tags": [
+      "PHP",
+      "SemanticUI",
+      "jQuery",
+      "MYSQL",
+      "NodeJS",
+      "Electron",
+      "SMS-APIs",
+      "HTML",
+      "JS"
+    ],
+    "photos_links": [],
+    "platform": "Desktop",
+    "notes": "This project was converted into WebApp, in order to make the user capable to get the Data online",
+    "presentation_path": ""
+  },
+  {
+    "project_name": "Smart Watch App",
+    "start_in": "*",
+    "ends_in": "*",
+    "project_describe": "This project was mini solution to cheat at the school. For sure I haven't used it ever for evil purposes :) ",
+    "git_links": ["https://github.com/ahmadtechnik/tizen_cheating_tool.git"],
+    "presentation_link": "https://www.youtube.com/watch?v=9OWKTxikUjM",
+    "tags": ["JavaScript", "HTML", "CSS", "Tizen Studio"],
+    "platform": "Wearable",
+    "photos_links": [],
+    "notes": ""
+  },
+  {
+    "project_name": "This Page",
+    "start_in": "15.04.2020",
+    "ends_in": "25.04.2020",
+    "project_describe": "This page (where you are now ^_^) was my introduction into React Js world, to practice new Techniques and Concepts",
+    "git_links": ["https://github.com/ahmadtechnik/react_cv.git"],
+    "presentation_link": "https://www.youtube.com/watch?v=MIdeMmRx5W0",
+    "tags": [
+      "ReactJS",
+      "CSS/SASS",
+      "HTML",
+      "NPM/YARN",
+      "MATERIAL-UI",
+      "Facebook-API"
+    ],
+    "platform": "Web",
+    "photos_links": [],
+    "notes": ""
+  },
+  {
+    "project_name": "Raspberry Pi Alarm",
+    "start_in": "*",
+    "ends_in": "*",
+    "project_describe": "Alternative to windows schedule tasks in order to not let the PC/Laptop running only for one task watch is Morning alarm",
+    "git_links": ["https://github.com/ahmadtechnik/WebInterfaceAlarmClock.git"],
+    "presentation_link": "https://youtu.be/AmtFl6u_Xik",
+    "tags": ["NodeJS", "Express Server", "HTTP Connection", "SocketIO"],
+    "platform": "Linux",
+    "photos_links": [],
+    "notes": ""
+  },
+  {
+    "project_name": "Advertisement Viewer",
+    "start_in": "*",
+    "ends_in": "*",
+    "project_describe": "This project was done to print product specifications and technical information on sheets of A3, A4 and A6 sizes.",
+    "git_links": [],
+    "presentation_link": "",
+    "tags": ["JAVA", "PHP", "MySQL", ""],
+    "platform": "Android / Web",
+    "photos_links": [],
+    "notes": ""
+  },
+  {
+    "project_name": "Pomodoro technique organizer",
+    "start_in": "*",
+    "ends_in": "*",
+    "project_describe": "",
+    "git_links": ["https://github.com/ahmadtechnik/SessionManagement.git"],
+    "presentation_link": "https://youtu.be/oHcYUuwsPOY",
+    "tags": ["PHP", "MySQL", "JS", "METRO-UI"],
+    "photos_links": [],
+    "notes": ""
+  },
+  {
+    "project_name": "K1 Computer Cash System",
+    "start_in": "*",
+    "ends_in": "*",
+    "project_describe": "This app was created to manage everything in the shop where I had worked (Sell, Buy, Products Archiving , Print Bills, Alarm about a shortage of goods, Create contracts)",
+    "git_links": [],
+    "presentation_link": "https://youtu.be/NAj-qRpW2m0",
+    "tags": ["HTML", "CSS", "JS", "jQuery", "PHP", "MySQL", "SemanticUI"],
+    "photos_links": [],
+    "notes": ""
+  },
+  {
+    "project_name": "Online OrderSet",
+    "start_in": "*",
+    "ends_in": "*",
+    "project_describe": "",
+    "git_links": [],
+    "presentation_link": "https://youtu.be/Bv0-gUAgeXE",
+    "tags": ["PHP", "MySQL", "JS", "SMS-API"],
+    "photos_links": [],
+    "notes": ""
+  },
+  {
+    "project_name": "Media Controller",
+    "start_in": "3.2019",
+    "ends_in": "6.2019",
+    "project_describe": "This project was created to download Youtube videos as  MP3 music and and play them in my local device, in order to be able to control the media player through HTTP and socket IO",
+    "git_links": [],
+    "presentation_link": "",
+    "tags": ["SocketIO", "jQuery", "SemanticUI", "NodeJS", "Electron", "HTTP"],
+    "photos_links": [],
+    "notes": ""
+  },
+  {
+    "project_name": "",
+    "start_in": "*",
+    "ends_in": "*",
+    "project_describe": "",
+    "git_links": [],
+    "presentation_link": "",
+    "tags": [],
+    "photos_links": [],
+    "notes": "",
+    "empty": true
+  }
+]

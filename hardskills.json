@@ -1,0 +1,82 @@
+[
+  {
+    "title": "JAVA",
+    "level": "Mittelstufe (praktische Anwendung)",
+    "tools": ["Netbeans", "Android Studio", "Shell Code"],
+    "frameworks": ["JavaFX", "Android"],
+    "icon": "fab fa-java"
+  },
+  {
+    "title": "PHP",
+    "level": "Mittelstufe (praktische Anwendung)",
+    "tools": ["Netbeans", "Shell-Scripting", "XAMPP", "Apache2"],
+    "frameworks": ["Twilio SMS-api", "Wordpress 5" , "Laravel 8.x.x"],
+    "icon": "fab fa-php"
+  },
+  {
+    "title": "MySQL",
+    "level": "Mittelstufe (praktische Anwendung)",
+    "tools": ["MySQL Workbench 8.0 CE", "XAMMP", "Shell-Scripting"],
+    "frameworks": [],
+    "icon": "fas fa-database"
+  },
+  {
+    "title": "JavaScript",
+    "level": "Mittelstufe (praktische Anwendung)",
+    "tools": ["VS Code", "Atom", "Netbeans", "NPM", "YARN"],
+    "frameworks": ["NodeJS", "React", "Electron", "jQuery", "Angular/CLI 12"],
+    "icon": "fab fa-js-square"
+  },
+  {
+    "title": "UML",
+    "level": "Mittelstufe (praktische Anwendung)",
+    "tools": ["Draw.io"],
+    "frameworks": [],
+    "icon": "fas fa-file-import"
+  },
+  {
+    "title": "C/C++",
+    "level": "Anfänger (begrenzte Erfahrung)",
+    "tools": ["Arduino", "PlatformIO IDE"],
+    "frameworks": [],
+    "icon": "fab fa-cuttlefish"
+  },
+  {
+    "title": "Web FE",
+    "level": "Fortgeschrittene (angewandte Theorie)",
+    "tools": ["VS Code", "Netbeans", "Atom", "Chrome Dev-tool"],
+    "frameworks": [
+      "CSS",
+      "SASS",
+      "HTML",
+      "Metro-UI",
+      "Material-UI",
+      "jQuery-UI",
+      "Bootstrap 4",
+      "Semantic-UI",
+      "Material UI Angular"
+    ],
+    "icon": "fas fa-pen-nib"
+  },
+  {
+    "title": "Linux",
+    "level": "Mittelstufe (praktische Anwendung)",
+    "tools": ["MentOS", "Raspbian", "Ubuntu"],
+    "frameworks": ["Raspberry PI", "Shell-Scripting"],
+    "icon": "fab fa-linux"
+  },
+  {
+    "title": "Grafikdesign",
+    "level": "Mittelstufe (praktische Anwendung)",
+    "tools": ["Photoshop CC", "Illustrator"],
+    "frameworks": [],
+    "icon": "fas fa-object-group"
+  } ,
+  {
+    "title": "Dev-Tools",
+    "level": "Mittelstufe (praktische Anwendung)",
+    "tools": ["Docker" , "Git/Github", "CI/CD", "DigitalOcean" , "AWS"],
+    "frameworks": [],
+    "icon": "fas fa-terminal"
+  }
+]
