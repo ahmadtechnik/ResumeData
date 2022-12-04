@@ -35,5 +35,11 @@
     "value": "https://github.com/ahmadtechnik",
     "link": true,
     "icon": "github-square"
+  },
+  {
+    "type": "Xing",
+    "value": "https://www.xing.com/profile/Ahmad_Koudier/cv",
+    "link": true,
+    "icon": "xing"
   }
 ]
